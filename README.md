@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bpost129&layout=donut&bg_color=283749&title_color=42B883&text_color=ffffff&line_height=50)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bpost129&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=F1E05A&hide=issues&icon_color=F1E05A&custom_title=Billy's%20GitHub%20Stats&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bpost129&layout=compact&bg_color=283749&title_color=42B883&text_color=ffffff&line_height=50)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bpost129&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=F1E05A&hide=issues&icon_color=F1E05A&custom_title=Billy's%20GitHub%20Stats&card_width=400)
 
 <!--
 **Bpost129/Bpost129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
