@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bpost129&layout=compact)
+<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bpost129&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bpost129&show_icons=true&theme=radical)
+</p>
 
 <!--
 **Bpost129/Bpost129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
